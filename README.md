@@ -1,5 +1,7 @@
 run the following commands in vscode terminal or command prompt:
-'> npm create vite@latest tb -- --template react'
+
+`> npm create vite@latest tb -- --template react`
+
 > y  (on recieveing 'Ok to proceed? (y)')
 > tb... (any two letters)
 > cd tb
