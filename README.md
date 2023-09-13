@@ -1,12 +1,11 @@
 run the following commands in vscode terminal or command prompt:
 
-`> npm create vite@latest tb -- --template react`
-
-> y  (on recieveing 'Ok to proceed? (y)')
-> tb... (any two letters)
-> cd tb
-> npm install
-> npm run dev
+`npm create vite@latest tb -- --template react`
+`y`  (on recieveing 'Ok to proceed? (y)')
+`tb...` (any two letters)
+`cd tb`
+`npm install`
+`npm run dev`
 
 After this your localhost link will show, copy and paste that into your browser. 
 
